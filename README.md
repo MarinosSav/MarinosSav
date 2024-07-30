@@ -2,7 +2,7 @@
 
 My name is Marinos, here are my most used programming languages:
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marinossav&langs_count=10&theme_radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marinossav&layout=compact&langs_count=10&theme_radical)
 
 - 🔭 I’m currently working on my portoflio page and my website 😉
 - 🌱 I’m currently learning Product Management (PSPO1) and PySpark
