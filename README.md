@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-My name is Marinos, here are my most used programming languages:
+My name is Marinos and I am an aspiring Data Scientist. Here are my most used programming languages:
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marinossav&layout=compact&langs_count=10&theme_radical)
 
