@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marinossav&layout=default)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marinossav&layout=compact)
 
 <!--
 **MarinosSav/MarinosSav** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
