@@ -8,4 +8,4 @@ My name is Marinos and I am an aspiring Data Scientist. Here are my most used pr
 - 🌱 I’m currently learning Product Management (PSPO1) and PySpark
 - 🤔 I’m looking for help with finding a job 🙏
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/marinos-savva-2649a21a9/), [Email](mailto:marinossavva1@gmail.com), +31639064428
-- ⚡ Fun fact: I love animals and I am an endless source of fun animal facts
+- ⚡ Fun fact: I love animals and I am an endless source of fun animal facts. I also love baking and can make the best carrot cake you have ever had.
